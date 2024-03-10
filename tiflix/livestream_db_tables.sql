@@ -283,7 +283,7 @@ CREATE TABLE `settings` (
 
 LOCK TABLES `settings` WRITE;
 /*!40000 ALTER TABLE `settings` DISABLE KEYS */;
-INSERT INTO `settings` VALUES (1,'app-bucket-image1688213325','app-bucket-video1688213325','AKIARPFT6W6PI4VOFJHV','p9DvrYjpvbNu+XLQxJrbFmr5Iu7Q/4CDk0DjPR4u','Amazon_S3_Cloud_Storage',NULL,NULL,NULL,'us-east-2',NULL,NULL,NULL,NULL),(2,NULL,NULL,NULL,NULL,'Mail',NULL,NULL,NULL,NULL,'mail.fredjarsoft.com','support@fredjarsoft.com','mypass9078','587'),(3,NULL,NULL,NULL,NULL,'Square_Payments','EAAAEOohHxT8KVpWnJGN5tMOIKv1LPpkOkiZGwN4Me_hY-ueouXit_pHm3JhzOu_','L7TSN60GBF3DR','connect.squareupsandbox.com',NULL,NULL,NULL,NULL,NULL);
+INSERT INTO `settings` VALUES (1,'app-bucket-image1688213325','app-bucket-video1688213325','xxxx','xxxxx','Amazon_S3_Cloud_Storage',NULL,NULL,NULL,'us-east-2',NULL,NULL,NULL,NULL),(2,NULL,NULL,NULL,NULL,'Mail',NULL,NULL,NULL,NULL,'mail.fredjarsoft.com','support@fredjarsoft.com','mypass9078','587'),(3,NULL,NULL,NULL,NULL,'Square_Payments','EAAAEOohHxT8KVpWnJGN5tMOIKv1LPpkOkiZGwN4Me_hY-ueouXit_pHm3JhzOu_','L7TSN60GBF3DR','connect.squareupsandbox.com',NULL,NULL,NULL,NULL,NULL);
 /*!40000 ALTER TABLE `settings` ENABLE KEYS */;
 UNLOCK TABLES;
 
