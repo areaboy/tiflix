@@ -6,7 +6,7 @@ Powered by FFMPEG Video Converter, video Streaming Classes, Videojs P2p Player a
 
 
 How To Test the Application:
-This application was written in PHP, Ajax, JQUERY, Bootstraps, Css, Mysql etc. built on Theta Network
+This application was written in PHP, Ajax, JQUERY, Bootstraps, Css, Mysql etc.
 
 
 
